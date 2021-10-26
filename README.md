@@ -1,1 +1,1 @@
-                                 Create ML Models with BigQuery ML Challenge lab 
+                                 Create ML Models with BigQuery ML Challenge lab code  
